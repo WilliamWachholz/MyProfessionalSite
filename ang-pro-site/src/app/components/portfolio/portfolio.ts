@@ -171,7 +171,7 @@ export class Portfolio {
       description: 'Explore the source code of this web site.',
       technologies: ['Angular', 'Typescript', 'Tailwind CSS', 'Node.js'],
       imageUrl: '/assets/professional.png',
-      githubUrl: 'https://github.com/WilliamWachholz/AngProSite/',
+      githubUrl: 'https://github.com/WilliamWachholz/MyProfessionalSite/',
       category: 'Web App'
     },
     {
