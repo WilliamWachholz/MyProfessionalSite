@@ -1,9 +1,10 @@
 # Environment variables
 .env
+.env.bak
 .env.local
 .env.production
 ang-pro-backend/.env
-
+ang-pro-backend/.env.bak
 
 # Dependencies
 node_modules/
@@ -12,6 +13,9 @@ ang-pro-backend/node_modules/
 # Logs
 *.log
 npm-debug.log*
+
+# Notepad++ bak 
+*.bak
 
 # Runtime data
 pids
